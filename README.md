@@ -1,0 +1,1 @@
+# automatically_send_email_to_the_mail_id_given_when_price_of_that_particular_item_falls
